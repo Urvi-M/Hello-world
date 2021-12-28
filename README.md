@@ -1,2 +1,3 @@
-# oi-mate
-A hello world repository for my noob self 
+# Modelling attempts
+
+fiddling around with mathematical modelling action potential on MATLAB 
